@@ -1,2 +1,1 @@
-# Daspro_211208_Kru
-Proyek akhir mata kuliah Dasar Pemrograman
+Sistem informasi kru sederhana yang dibuat menggunakan bahasa C
